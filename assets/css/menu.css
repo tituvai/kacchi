@@ -1,0 +1,174 @@
+.body{
+    display: block;
+}
+.navbar-brand{
+    padding-left: 50px;
+    font-size: 19px;
+    font-weight: bold;
+    
+}
+
+.nav-item{
+    
+    padding: 0px 10px;   
+}
+
+.MenuOne{
+    background-image: linear-gradient(rgb(0, 0, 0, 0.7), rgb(0, 0, 0, 0.7)), url(/assets/images/menu/hero.webp);
+    background-size: cover;
+    width: 100%;
+    height: 550px;
+    display: block;
+    background-attachment: fixed;
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+.MenuOne h2{
+    font-size: 90px;
+       
+}
+.MenuOne h3{
+    color: orange;
+    padding-top: 10px;
+}
+.MenuOne p{
+    padding-top: 30px;
+}
+
+
+.container{
+    padding: 60px 30px;
+    padding-left: 50px;
+}
+.Menu{
+    text-align: center;
+}
+.Menu h2{
+    font-size: 50px;
+}
+.Menu p{
+    font-size: 20px;
+    color: lightslategray;
+    padding: 16px 0;
+}
+.Menu img{
+    font-size: 30px;
+    padding-bottom: 60px;
+}
+
+.MenuThree{
+    background-image: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url(/assets/images/menu/tow-1.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 300px;
+    color: white;
+    border-radius: 20px 20px;
+    
+    
+}
+
+.MenuThree h3{
+    padding-top: 280px;
+    padding-left: 10px;
+}
+.MenuThree p{
+    font-size: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+}
+
+.MemuFour{
+    background-image: linear-gradient(rgb(39, 36, 36, 0.5), rgb(30, 23, 23, 0.5)), url(/assets/images/menu/tow-2.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 300px;
+    color: white;
+    border-radius: 20px 20px;
+}
+.MemuFour h3{
+    padding-top: 280px;
+    padding-left: 10px;  
+}
+.MemuFour p{
+    font-size: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;  
+}
+
+.MenuFive{
+    background-image: linear-gradient(rgb(39, 36, 36, 0.5), rgb(30, 23, 23, 0.5)), url(/assets/images/menu/tow-3.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 300px;
+    color: white;
+    border-radius: 20px 20px;
+    
+}
+.MenuFive h3{
+    padding-top: 280px;
+    padding-left: 10px; 
+}
+.MenuFive p{
+    font-size: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px; 
+}
+
+.card{
+    margin: 40px 30px;
+    border-radius: 10px;
+}
+
+
+        .btn-grad {
+            background-image: linear-gradient(to right, #16A085 0%, #F4D03F  51%, #16A085  100%);
+            margin: 10px;
+            padding: 15px 56px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+            display: block;
+            font-size: xx-small;
+            
+          }
+
+          .btn-grad:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+          }
+         
+.menu-9{
+    padding: 100px 90px;
+}
+.menu-9 h2{
+    font-size: 50px;
+    font-weight: bold;
+}
+.fotter{
+    background-image: linear-gradient(rgb(0, 0, 0, 0.7), rgb(0, 0, 0, 0.7)), url(/assets/images/home/fotter.jpg);
+    text-align: center;
+    color: white;
+    height: 550px;
+    width: 100%;
+    
+}
+.fotter h2{
+    font-size: 45px;
+}
+.col{
+    padding: 15px 0;
+    font-size: 25px;
+    color: white;
+}
+.social-icon{
+    padding: 10px 10px;
+    border: auto solid white;
+    font-size: 30px;
+   
+}

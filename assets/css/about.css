@@ -1,0 +1,138 @@
+
+
+
+.navbar-brand{
+    padding-left: 50px;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.nav-item{
+   
+    padding: 0px 10px;
+    
+}
+.AboutOne{
+    background-image: linear-gradient(rgb(0, 0, 0, 0.6), rgb(0, 0, 0, 0.6)), url(/assets/images/about/abutone-1.webp);
+    width: 100%;
+    height: 500px;
+    background-size: cover; 
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+    padding: 50px 0px;
+}
+.AboutOne h2{
+    font-size: 90px;
+    padding: 20px 0px;
+}
+.AboutOne h4{
+    font-size: 30px;
+    padding: 10px 0px;
+    color: orange;
+}
+.AboutOne p{
+    padding-top: 40px;
+}
+.AboutTow{
+    text-align: center;
+    padding: 80px 0px;
+}
+.AboutTow h3{
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+.AboutThree{
+    margin: 80px 70px;
+}
+.About-tow{
+    background-image: url(/assets/images/about/free\ wifi.jpg);
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    border-radius: 5px 5px ;
+    text-align: center;
+
+}
+.AboutFive{
+    margin: 110px 0px;
+}
+.About-one h3{
+    font-size: 40px;
+    font-weight: bold;
+}
+.About-one p{
+    padding: 10px 0px;
+}
+
+.About-tow h4{
+    padding-top: 10px;
+}
+.About-three{
+    padding-top: 80px;
+}
+.AboutSix{
+    background-image: linear-gradient(rgb(0, 0, 0, 0.8), rgb(0, 0, 0, 0.8)), url(/assets/images/about/six.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    width: 100%;
+    color: white;
+}
+.AboutSix h2{
+    font-size: 50px;
+    padding-top: 90px;
+    padding-right: 40px;
+}
+.AboutSix p{
+    
+    padding-top: 10px;  
+    padding-right: 40px;  
+}
+.AboutSeven{
+    margin: 110px 0px;
+}
+.sevenone{
+    padding: 0px 90px ;
+}
+.sevenone h3{
+    font-size: 50px;
+    font-weight: bold;
+}
+.sevenone p{
+    padding: 10px 0px;
+}
+.scholeicon{
+    padding: 0px 20px;
+    
+}
+.scholeicon i{
+    font-size: 20px;
+    color: orange;
+}
+.fotter{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),   rgba(0, 0, 0, 0.7)), url(/assets/images/about/fotter.jpg);
+    text-align: center;
+    color: white;
+    height: 550px;
+    width: 100%;
+    
+}
+.fotter h2{
+    font-size: 45px;
+}
+.col{
+    padding: 15px 0;
+    font-size: 25px;
+    color: white;
+}
+.social-icon{
+    padding: 10px 10px;
+    border: auto solid white;
+    font-size: 30px;
+   
+}
+
+   
+

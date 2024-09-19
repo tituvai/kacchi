@@ -1,0 +1,153 @@
+.body{
+   
+}
+.navbar-brand{
+    padding-left: 50px;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.nav-item{
+    
+    padding: 0px 10px;
+    
+}
+
+
+.hero-image{
+    background-image: linear-gradient(rgba(130, 121, 121, 0.11), rgba(11, 10, 10, 0.8)), url(/assets/images/home/hero-1.jpg);
+    height: 600px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.hero-text{
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 50px;
+    left: 200px;
+   font-size: 20px;
+}
+.hero-text h1{
+    font-size: 80px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.section-title{
+    margin-top: 110px;
+}
+.hero-images2{
+    background-image: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)),  url(/assets/images/home/kacchi-2_n.jpg);
+}
+.hero-text2{
+    color: white;
+    text-align: inherit;
+}
+.hero-text2 img{
+   margin-left: 5px; 
+   margin-top: 5px;
+}
+.hero-text2 h6{
+    margin-left: 5px;
+}
+.hero-text2 p{
+    margin-left: 5px;
+}
+.button{
+    margin: 4px 3px;
+}
+.container-flex{
+    background-image: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url(/assets/images/home/ccol-1-1.webp);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 400px;
+    width: 100%;
+    color: white;
+    text-align: center;
+   padding: 100px 0px;
+
+}
+.container-flex h3{
+    font-size: 50px;
+    color:  orange;
+   padding-bottom: 40px;
+}
+.container-flex h6{
+    padding-top: 30px;
+}
+.menu-box{
+    
+    color: rgb(44, 42, 39);
+    display: flex;
+    padding: 50px 20px;
+    align-items: center;
+}
+.AboutOne{
+    width: 100%;
+    height: 500px;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),   rgba(0, 0, 0, 0.5)), url(/assets/images/home/offer\ one-2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+.AboutOne h2{
+    padding: 15px 0px;
+    color: orange;
+}
+.AboutOne h4{
+    padding: 10px 0px;
+}
+.AboutTow{
+    text-align: center;
+    padding: 100px 50px;
+}
+.AboutTow img{
+    height: 80px;
+}
+.AboutTow p{
+   text-align: center;
+   padding-bottom: 15px;
+   padding: 50px 0px;
+}
+.AboutTow h2{
+    font-size: 50px;
+    font-weight: bold;
+    padding: 10px;
+}
+.fotter{
+    background-image: linear-gradient(rgb(0, 0, 0, 0.7), rgb(0, 0, 0, 0.7)), url(/assets/images/home/fotter.jpg);
+    text-align: center;
+    color: white;
+    height: 550px;
+    width: 100%;
+    
+}
+.fotter h2{
+    font-size: 45px;
+}
+.col{
+    padding: 15px 0;
+    font-size: 25px;
+    color: white;
+}
+.social-icon{
+    padding: 10px 10px;
+    border: auto solid white;
+    font-size: 30px;
+   
+}
+
+
+
+    
+
+
+
+   
+
+   

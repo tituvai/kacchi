@@ -1,0 +1,98 @@
+.body{
+    
+}
+.navbar-brand{
+    padding-left: 50px;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.nav-item{
+    
+    padding: 0px 10px;
+    
+}
+
+
+.ContactOne{
+    background-image: linear-gradient(rgb(0, 0, 0, 0.6), rgb(0, 0, 0, 0.6)), url(/assets/images/contact-us/icontact1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 600px;
+    color: white;
+    text-align: center;
+    padding: 90px 0px;
+}
+.ContactOne h3{
+    font-weight: bold;
+    color: orange;
+    padding: 20px 0px;
+}
+.ContactOne h2{
+    font-size: 80px;
+    font-weight: bold;
+    padding-bottom: 40px;
+}
+.ContactTow{
+    padding-top: 120px;
+    text-align: center;
+}
+.ContactTow h3{
+    font-size: 50px;
+    font-weight: bold;
+}
+.ContactTow p{
+    padding: 15px 0px;
+}
+.ContactTow h2{
+    font-weight: bold;
+    padding-top: 40px;
+}
+.FromOne{
+    padding: 50px 30px;
+}
+.maps{
+    padding: 60px 0px;
+    margin-right: 60px;
+}
+.ContactThree{
+    text-align: center;
+    padding: 50px 0px;
+}
+.ContactThree h3{
+    font-weight: bold;
+    padding: 30px 0px;
+}
+.ContactThree p{
+    font-size: 20px;
+    
+}
+.ContactThree h2{
+    font-size: 50px;
+    font-weight: bold;
+    padding: 20px 0px;
+}
+.fotter{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),   rgba(0, 0, 0, 0.7)), url(/assets/images/contact-us/fotter.jpg);
+    text-align: center;
+    color: white;
+    height: 550px;
+    width: 100%;
+    
+}
+.fotter h2{
+    font-size: 45px;
+}
+.col{
+    padding: 15px 0;
+    font-size: 25px;
+    color: white;
+}
+.social-icon{
+    padding: 10px 10px;
+    border: auto solid white;
+    font-size: 30px;
+   
+}
+    
